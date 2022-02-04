@@ -16,3 +16,6 @@ services:
 
   node2:
     image: enriquedsc2021/practica3:latest
+    
+  node3:
+    image: enriquedsc2021/practica3:latest
